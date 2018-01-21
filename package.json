@@ -1,0 +1,9 @@
+{
+  "name": "wizz",
+  "version": "0.0.0",
+  "private": true,
+
+  "dependencies": {
+    "xmlhttprequest": "~1.8.0"
+  }
+}
